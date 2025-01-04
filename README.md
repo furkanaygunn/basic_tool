@@ -23,4 +23,6 @@ pip install flask
 
 git clone https://github.com/furkanaygunn/basic_tool
 
+cd basic_tool
+
 python tool.py
